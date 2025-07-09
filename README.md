@@ -1,6 +1,6 @@
 # 📄 Generador de CV en LaTeX
 
-Un generador automático de CV profesional que convierte datos en formato JSON a elegantes documentos PDF usando LaTeX.
+Un generador automático de CV a partir de un archivo *JSON* basado en el CV de *Hardvard*, modernizandolo con una fuente 
 
 ## 🚀 Características
 
