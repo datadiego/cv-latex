@@ -1,0 +1,64 @@
+{
+    "nombre": "María González López",
+    "ciudad": "Madrid",
+    "pais": "España",
+    "telefono": "+34 600 123 456",
+    "correo": "maria.gonzalez@email.com",
+    "linkedin": "linkedin.com/in/maria-gonzalez",
+    "resumen": "Desarrolladora Full Stack con 5 años de experiencia en tecnologías web modernas. Especializada en React, Node.js y bases de datos. Apasionada por crear soluciones innovadoras y escalables. Busco oportunidades para crecer en un equipo dinámico y contribuir con proyectos desafiantes.",
+    "experiencia": [
+        {
+            "empresa": "TechSolutions",
+            "ciudad": "Madrid",
+            "puesto": "Desarrolladora Full Stack Senior",
+            "fechas": "Enero 2022 -- Presente",
+            "logros": [
+                "Lideré el desarrollo de una aplicación web que incrementó la productividad del equipo en un 40%.",
+                "Implementé arquitectura de microservicios con Node.js y Docker, mejorando la escalabilidad del sistema.",
+                "Mentoricé a 3 desarrolladores junior, estableciendo mejores prácticas de código y metodologías ágiles."
+            ]
+        },
+        {
+            "empresa": "StartupTech",
+            "ciudad": "Barcelona",
+            "puesto": "Desarrolladora Frontend",
+            "fechas": "Marzo 2020 -- Diciembre 2021",
+            "logros": [
+                "Desarrollé interfaces de usuario responsivas con React y TypeScript para más de 10 proyectos.",
+                "Optimicé el rendimiento de aplicaciones web, reduciendo el tiempo de carga en un 60%.",
+                "Colaboré con equipos de UX/UI para implementar diseños pixel-perfect y mejorar la experiencia del usuario."
+            ]
+        },
+        {
+            "empresa": "WebStudio",
+            "ciudad": "Valencia",
+            "puesto": "Desarrolladora Web Junior",
+            "fechas": "Junio 2019 -- Febrero 2020",
+            "logros": [
+                "Creé más de 20 sitios web corporativos utilizando HTML, CSS, JavaScript y WordPress.",
+                "Implementé sistemas de gestión de contenido personalizados para clientes del sector retail.",
+                "Participé en la migración de sitios web legacy a tecnologías modernas, mejorando su rendimiento y seguridad."
+            ]
+        }
+    ],
+    "formacion": [
+        {
+            "titulo": "Máster en Desarrollo Web",
+            "centro": "Universidad Politécnica de Madrid",
+            "fechas": "2018 -- 2019"
+        },
+        {
+            "titulo": "Grado en Ingeniería Informática",
+            "centro": "Universidad Complutense de Madrid",
+            "fechas": "2014 -- 2018"
+        }
+    ],
+    "habilidades": [
+        "Lenguajes: JavaScript, TypeScript, Python, Java, HTML5, CSS3.",
+        "Frameworks: React, Vue.js, Angular, Node.js, Express, Django.",
+        "Bases de datos: MySQL, PostgreSQL, MongoDB, Redis.",
+        "Herramientas: Git, Docker, AWS, Jenkins, Webpack, Figma.",
+        "Metodologías: Scrum, Kanban, TDD, CI/CD.",
+        "Idiomas: Español (nativo), Inglés (C1), Francés (B2)."
+    ]
+}

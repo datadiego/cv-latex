@@ -1,0 +1,52 @@
+\documentclass[a4paper,10pt]{{article}}
+\usepackage[utf8]{{inputenc}}
+\usepackage[T1]{{fontenc}}
+\usepackage[margin=1.5cm]{{geometry}}
+\usepackage{{hyperref}}
+\usepackage{{parskip}}
+\usepackage{{enumitem}}
+\usepackage{{xcolor}}
+
+\renewcommand{{\familydefault}}{{\sfdefault}}
+
+\hypersetup{{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=black,
+    pdftitle={{CV - {nombre}}},
+}}
+
+\begin{{document}}
+
+\pagestyle{{empty}}
+
+\begin{{center}}
+    {{\LARGE \textbf{{{nombre}}}}} \\
+    {ciudad}, {pais} · {telefono} · \href{{{linkedin}}}{{LinkedIn}} · \href{{{correo}}}{{{correo}}} \\
+\end{{center}}
+
+\vspace{{10pt}}
+
+% \section*{{Resumen Profesional}}
+% \vspace{{-10pt}}
+% {linea}
+{resumen}
+
+\section*{{Experiencia Profesional}}
+\vspace{{-10pt}}
+{linea}
+{experiencia}
+
+\section*{{Formación Académica}}
+\vspace{{-10pt}}
+{linea}
+{formacion}
+
+\section*{{Habilidades}}
+\vspace{{-10pt}}
+{linea}
+\begin{{itemize}}[leftmargin=*]
+{habilidades}
+\end{{itemize}}
+
+\end{{document}}
